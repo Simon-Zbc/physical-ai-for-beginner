@@ -22,7 +22,7 @@
 | # | タイトル | 主なテーマ | 実践 | コード | 状態 |
 |---|---|---|---|---|---|
 | 01 | Tool Calling から Action へ | SayCan / RT-1 / RT-2 の系譜 | LLM の Function Calling でシミュレーション上のアームを操作 | [`ch01_tool_calling_to_action/`](ch01_tool_calling_to_action/) | ⬜ |
-| 02 | LLM でロボットを動かす | Code as Policies、階層型プランニング | 自然言語指示 → タスク分解 → スキル実行 | - | ⬜ |
+| 02 | LLM でロボットを動かす | Code as Policies、階層型プランニング | 自然言語指示 → タスク分解 → スキル実行 | [`ch02_llm_robot_planning/`](ch02_llm_robot_planning/) | ⬜ |
 
 ### Part 2：ロボット工学の基礎（エンジニア版）
 
