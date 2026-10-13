@@ -38,7 +38,7 @@
 |---|---|---|---|---|---|
 | 06 | MuJoCo 入門 | MJCF、物理シミュレーション、レンダリング | 物体把持環境の構築 | [`ch06_mujoco_basics/`](ch06_mujoco_basics/) | ⬜ |
 | 07 | Isaac Sim / Isaac Lab | GPU 並列シミュレーション、Omniverse | クラウド GPU で Isaac Lab を実行 | [`ch07_isaac_lab/`](ch07_isaac_lab/)（NumPy による並列環境の体験。Isaac Lab 本体は未実行） | ⬜ |
-| 08 | Genesis | GPU ネイティブ、生成的シミュレーション | 把持タスクの実行 | - | ⬜ |
+| 08 | Genesis | GPU ネイティブ、生成的シミュレーション | 把持タスクの実行 | [`ch08_genesis/`](ch08_genesis/)（Python 3.10〜3.13 の別環境が必要） | ⬜ |
 
 ### Part 4：ロボット学習
 
