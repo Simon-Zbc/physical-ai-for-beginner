@@ -7,5 +7,6 @@ dependencies = [
     "mujoco>=3.0.0",
     "numpy>=1.26",
     "openai>=1.0",
+    "pillow>=10.0",
     "python-dotenv>=1.0",
 ]

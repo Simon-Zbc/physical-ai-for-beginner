@@ -203,6 +203,9 @@ cython_debug/
 # Temporary file for partial code execution
 tempCodeRunnerFile.py
 
+# Generated camera images (ch06)
+ch06_mujoco_basics/*.png
+
 # Ruff stuff:
 .ruff_cache/
 
